@@ -1,2 +1,2 @@
 # Software-Project
-Software Projects by Mete Yılmaz and Muhammed Mustafa
+Software Projects by Mete Yılmaz and M.Mustafa
