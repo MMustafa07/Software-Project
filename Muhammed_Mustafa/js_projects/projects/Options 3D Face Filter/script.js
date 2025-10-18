@@ -23,11 +23,11 @@ const solutionOptions = {
 };
 
 const modelConfigs = {
-  motorcycleHelmet: {
-    path: './models/motorcycle_helmet/source/4khelmet/4khelmet.gltf',
-    scale: [55, 55, 55],
-    rotation: [0, 3.1, 0],
-    position: [0, -9, -10],
+  helmetModel: {
+    path: './models/helmetModel.glb',
+    scale: [30, 30, 30],
+    rotation: [0, 0, 0],
+    position: [0, 0, -5],
   },
 };
 
